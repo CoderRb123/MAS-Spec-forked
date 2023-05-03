@@ -45,5 +45,5 @@ s.resource = s.name + '/Assets/**/*'
 s.source_files = s.name + '/Classes/**/*'
 s.public_header_files = s.name + '/Classes/**/*.h'
 s.dependency 'Yodo1MasCore', '4.8.8'
-s.dependency 'IronSourceSDK', '7.2.7.0'
+s.dependency 'IronSourceSDK', '7.3.0.0'
 end
