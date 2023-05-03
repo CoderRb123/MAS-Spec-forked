@@ -36,7 +36,7 @@ TODO: Add long description of the pod here.
   #s.vendored_frameworks = s.name + '/Lib/**/*.framework'
   s.frameworks = 'UIKit', 'Foundation'
   s.dependency 'Yodo1MasCore', '4.0.0.5'
-  s.dependency 'Yodo1MasMediationAdMob', '4.0.0.5'
+  # s.dependency 'Yodo1MasMediationAdMob', '4.0.0.5'
   s.dependency 'Yodo1MasMediationApplovin', '4.0.0.5'
   s.dependency 'Yodo1MasMediationIronSource', '4.0.0.5'
   s.dependency 'Yodo1MasMediationFacebook', '4.0.0.5'
