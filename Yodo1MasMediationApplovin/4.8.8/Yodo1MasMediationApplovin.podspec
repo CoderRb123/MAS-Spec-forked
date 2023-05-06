@@ -44,6 +44,6 @@ s.resource = s.name + '/Assets/**/*'
 s.source_files = s.name + '/Classes/**/*'
 s.public_header_files = s.name + '/Classes/**/*.h'
 s.dependency 'Yodo1MasCore', '4.8.8'
-s.dependency 'AppLovinSDK', '11.8.1'
+s.dependency 'AppLovinSDK', '11.9.0'
 
 end

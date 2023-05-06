@@ -44,5 +44,5 @@ s.resource = s.name + '/Assets/**/*'
 s.source_files = s.name + '/Classes/**/*'
 s.public_header_files = s.name + '/Classes/**/*.h'
 s.dependency 'Yodo1MasCore', '4.8.8'
-s.dependency 'Google-Mobile-Ads-SDK', '10.3.0'
+s.dependency 'Google-Mobile-Ads-SDK', '10.4.0'
 end
